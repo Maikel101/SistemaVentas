@@ -1,0 +1,6 @@
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Miguel Angel Roldan\source\repos\SistemaVentas01\CapaEntidad\obj\Debug\CapaEntidad.pdb
